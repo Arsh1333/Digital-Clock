@@ -1,0 +1,21 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(135, 120, 120);
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    font-size: 70px;
+}
+.btn{
+    height: 40px;
+    width: 80px;
+    border: 2px solid black;
+   align-items: center;
+}
